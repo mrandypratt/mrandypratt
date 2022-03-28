@@ -1,5 +1,9 @@
 - 👋 Hi, I’m Andy!
-- 👀 I’m interested in thinking about problems in the world systematically and learning skills that aid in this process.
-- 🌱 I’m currently learning Full-Stack Javascript with Launch School.
-- I am currently employed as an Accountant with a plan to move into Software Engineering over the following years.
+- 🌱 I’m a Full-Stack Javascript/Typescript developer
+- 👀 I’m currently seeking employment remotely or in Denver, CO
+- I am interested in productivity software and have a background in accounting
+
+- Check out my website at www.andyprattdev.com to see what I've been doing.
+- Also, check out my online Cards Against Humanity clone at www.cardswithfriendsgame.com
+
 
